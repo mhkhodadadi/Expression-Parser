@@ -1,7 +1,9 @@
 # Expression-Parser
+ * Get an expression includes parentheses, digits and operators and return the result
+ * To exit, type `exit` or `e`
 
 ## Features
-* Support for operators (+, -, *, /)
+* Support for operators `+, -, *, /`
 * Support for multiple parentheses
 * No special library is needed
 
