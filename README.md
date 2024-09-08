@@ -1,5 +1,5 @@
 # Expression-Parser
- * Get an expression includes parentheses, digits and operators and return the result
+ * It takes an expression containing parentheses, numbers (integers and decimals) and operators and returns the result
  * To exit, type `exit` or `e`
 
 ## Features
